@@ -226,7 +226,7 @@ footer {
     padding: 5px;
 }
 
-footer a {
+footer > a {
     color: white;
     font-weight: bold;
     text-decoration: none;
